@@ -26,13 +26,6 @@ namespace ProgrammingGithub
                         break;
                     }
 
-
-
-                    if (pin2 == password)
-                    {
-                        Console.WriteLine("Correct PIN. Access granted!");
-                        return; 
-                    }
                 }
 
 
@@ -42,6 +35,7 @@ namespace ProgrammingGithub
                 Console.WriteLine("Correct PIN. Access granted!");
             }
         }
+         /// deyisiklik etdim
     }
     
 }
